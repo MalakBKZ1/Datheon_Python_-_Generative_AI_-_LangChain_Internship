@@ -1,0 +1,21 @@
+{
+  "invoice_number": "F-2026-014",
+  "date": "15/10/2026",
+  "client_name": "Société Delta",
+  "items": [
+    {
+      "description": "Clavier mécanique",
+      "quantity": 2,
+      "unit_price": 85.0
+    },
+    {
+      "description": "Écran 24 pouces",
+      "quantity": 1,
+      "unit_price": 420.0
+    }
+  ],
+  "total": 590.0,
+  "currency": "TND",
+  "tax_amount": null,
+  "discount_amount": null
+}

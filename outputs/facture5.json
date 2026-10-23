@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-7782",
+  "date": "12 March 2026",
+  "client_name": "Delta Solutions SARL",
+  "items": [
+    {
+      "description": "Consulting (2 days)",
+      "quantity": 2,
+      "unit_price": 450.0
+    },
+    {
+      "description": "Server setup",
+      "quantity": 1,
+      "unit_price": 1200.0
+    }
+  ],
+  "total": 2100.0,
+  "currency": "EUR",
+  "tax_amount": null,
+  "discount_amount": null
+}

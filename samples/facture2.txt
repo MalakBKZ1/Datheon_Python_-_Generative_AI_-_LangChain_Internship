@@ -1,0 +1,6 @@
+Facture n° F-2026-021 du 18/10/2026
+Client : Pharmacie El Amel
+3 x Imprimante laser à 300 TND
+Sous-total HT : 900 TND
+TVA 19% : 171 TND
+Total TTC : 1071 TND

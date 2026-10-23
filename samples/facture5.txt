@@ -1,0 +1,6 @@
+Invoice #INV-7782 — 12 March 2026
+Billed to: Delta Solutions SARL
+Items:
+- Consulting (2 days) — qty 2 — 450,00 EUR each
+- Server setup — qty 1 — 1 200,00 EUR
+Total: 2 100,00 EUR

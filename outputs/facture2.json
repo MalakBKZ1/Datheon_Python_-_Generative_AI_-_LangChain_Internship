@@ -1,0 +1,16 @@
+{
+  "invoice_number": "F-2026-021",
+  "date": "18/10/2026",
+  "client_name": "Pharmacie El Amel",
+  "items": [
+    {
+      "description": "Imprimante laser",
+      "quantity": 3,
+      "unit_price": 300.0
+    }
+  ],
+  "total": 1071.0,
+  "currency": "TND",
+  "tax_amount": 171.0,
+  "discount_amount": null
+}

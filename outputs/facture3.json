@@ -1,0 +1,21 @@
+{
+  "invoice_number": "2026/033",
+  "date": "20/10/2026",
+  "client_name": "Café Les Oliviers",
+  "items": [
+    {
+      "description": "Sac de café 1 kg",
+      "quantity": 10,
+      "unit_price": 24.5
+    },
+    {
+      "description": "Boîte de sucre",
+      "quantity": 5,
+      "unit_price": 6.0
+    }
+  ],
+  "total": 247.5,
+  "currency": "TND",
+  "tax_amount": null,
+  "discount_amount": 27.5
+}

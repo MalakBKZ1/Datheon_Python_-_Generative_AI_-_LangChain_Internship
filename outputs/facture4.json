@@ -1,0 +1,21 @@
+{
+  "invoice_number": "F-2026-040",
+  "date": "3 mars 2026",
+  "client_name": "Atelier Menuiserie Ben Salah",
+  "items": [
+    {
+      "description": "Chaise en bois",
+      "quantity": 4,
+      "unit_price": 55.0
+    },
+    {
+      "description": "Table",
+      "quantity": 1,
+      "unit_price": 210.0
+    }
+  ],
+  "total": 430.0,
+  "currency": null,
+  "tax_amount": null,
+  "discount_amount": null
+}
