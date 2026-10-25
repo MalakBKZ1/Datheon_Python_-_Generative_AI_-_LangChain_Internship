@@ -1,3 +1,5 @@
 .env
 venv/
 __pycache__/
+task2-rag/documents/*.pdf
+chroma_db/
